@@ -1,20 +1,18 @@
-.odd_class {
-    background-color: rgb(192, 77, 77);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+.odd {
+    background-color: rgb(216, 42, 100);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#oneid {
-    color: blue;
-    font-size: 36px;
+#two {
+    color: rgb(40, 40, 238);
 }
 
-.odd_class2 {
+.adjust-font-size{
     font-size: 24px;
 }
 
-.last_class {
-    background-color: rgb(18, 138, 98);
+#four {
+    background-color: rgb(14, 165, 115);
     font-size: 24px;
     font-weight: bold;
 }
-
